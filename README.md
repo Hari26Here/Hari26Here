@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari26Here
-- 👀 I’m interested in Python and Devops
-- 🌱 I’m currently learning Python and Devops
+- 👀 I’m interested in Terraform, Azure and Devops
+- 🌱 I’m currently learning Terraform, Azure and Devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
